@@ -1,10 +1,98 @@
 <h1 align="center">Hi 👋, I'm Alejandro Fernandez</h1>
-<h3 align="center">A passionate developer from</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alejandro-dez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alejandro-dez/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&center=true&vCenter=true&width=850&lines=Computer+Science+graduate+from+UCF;Backend+%2F+AI+developer;Interested+in+software+engineering%2C+cloud%2C+and+full-stack+development" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/alejandro-dez/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:alejandro.fernandez2001@yahoo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Alejandro-dez" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Science graduate from the **University of Central Florida**
+- 💡 Interested in **backend engineering, AI-powered systems, cloud, and full-stack development**
+- ⚙️ Recently worked with **Python, FastAPI, Pydantic, AWS serverless services, JSON APIs, and LLM-powered workflows**
+- 🎮 Also built projects involving **simulation/game systems, Unreal Engine, C#/C++, and voice + NLP pipelines**
+- 🚀 Currently focused on building stronger portfolio projects and growing as an engineer
+- 📍 Based in **Orlando, Florida**
+
+---
+
+## 🛠 Tech Stack
+
+### Strongest / Most Comfortable With
+<p>
+  <img src="https://skillicons.dev/icons?i=py,java,c,js,git,github,docker,linux,mysql,vscode" />
+</p>
+
+### Worked With in Projects
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,html,css,php,react,unity,unreal,visualstudio,idea,figma" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
+  <img src="https://img.shields.io/badge/API_Gateway-FF9900?style=for-the-badge&logo=amazonapigateway&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
+</p>
+
+---
+
+## 📌 Highlighted Work
+
+### 🤖 AI / Backend
+- Built a **Python/FastAPI microservice** for AI-driven workflows using typed JSON schemas with **Pydantic**
+- Worked on **resume ingestion** and ATS-ready resume / cover letter generation flows
+- Helped architect an **AWS serverless pipeline** using API Gateway, Lambda, App Runner, S3, DynamoDB, and CloudWatch
+
+### ✈️ Simulation / NLP
+- Contributed to a voice-driven interface for military flight simulations using **Whisper**, **LLM-based NLP**, **JSON command generation**, and **MACE integration**
+- Built a custom **C# plugin** to parse AI-generated commands and manipulate simulation entities dynamically
+
+### 🌐 Full-Stack / Game Projects
+- Built **ContX**, a full-stack contact manager using **React, PHP, MySQL, and REST JSON APIs**
+- Built **Knight H’axe**, a horror game created during a 48-hour hackathon using **Unreal Engine, Blueprints, and C++**
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Alejandro-dez&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro-dez&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=Alejandro-dez&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌱 Right Now
+
+- Building more projects that better show my **backend and software engineering skills**
+- Strengthening my depth in **cloud services, APIs, and production-style development**
+- Open to opportunities in **software engineering, backend, full-stack, and technical roles**
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/alejandro-dez/" target="_blank">LinkedIn</a> •
+  <a href="mailto:alejandro.fernandez2001@yahoo.com">Email</a>
+</p>
