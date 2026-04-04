@@ -16,7 +16,7 @@
   <a href="mailto:alejandro.fernandez2001@yahoo.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="./Alejandro_Fernandez_Resume.pdf">
+  <a href="./Fernandez_Alejandro_Resume.pdf">
     <img src="https://img.shields.io/badge/Resume-View_PDF-B30B00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
